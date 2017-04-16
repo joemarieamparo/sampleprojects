@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="signup_or_login">Sign up / Log in</string>
+    <string name="login_failed_try_again_later">Login failed. Please try again later</string>
+    <string name="loading">Loading...</string>
+    <string name="chat_app">Chat app</string>
+    <string name="log_out">Log out</string>
+    <string name="send">send</string>
+    <string name="start_a_new_message">Start a new message</string>
+    <string name="user_name">User name</string>
+    <string name="password">password</string>
+    <string name="disclaimer">By signing up,  you agree to the Terms of Service and Privacy Policy, including Cookie Use. Others will be able to find you  by searching for your email  address or phone number when provided.</string>
+    <string name="required">Required</string>
+    <string name="invalid_email_format">Invalid email format</string>
+    <string name="no_network_available">No network available</string>
+    <string name="signing_you_in">Signing you in...</string>
+    <string name="success">Success</string>
+</resources>
